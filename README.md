@@ -4,8 +4,6 @@ Heart disease is one of the major concerns in human health and the number one ca
 ## ANALYSIS OBJECTIVES
 1. Investigating the disparities in heart disease prevalence, risk factors, and outcomes between males and females.
 2. Identifying significant predictors of heart disease for each gender.
-3. Examining the impact of gender on the effectiveness of various treatment options and interventions.
-4. Providing data-driven insights and recommendations to inform healthcare strategies and improve gender-specific patient outcomes."
 
 ## TOOLS
 POWERBI
